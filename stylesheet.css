@@ -123,6 +123,10 @@ p{
     h1{
         font-size: 3em;
     }
+    #answers{
+        width: 90%;
+        padding: 1em;
+    }
     .answerButtons{
         width: 200px;
         font-size: 20px;           /* smaller width */
