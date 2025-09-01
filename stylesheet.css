@@ -13,7 +13,7 @@ body{
 }
 main{
     color: white;
-    width: 100%;
+    width: 100vw;
 }
 h1{
     font-family: Knewave, verdana, arial;
@@ -124,8 +124,14 @@ p{
         font-size: 3em;
     }
     .answerButtons{
-        width: 400px;
+        width: 200px;
         font-size: 20px;           /* smaller width */
+    }
+    #question{
+        width: 60%;
+    }
+    #progressContainer{
+        width: 60%;
     }
     .scoreBreakdown{
         width: 400px;
