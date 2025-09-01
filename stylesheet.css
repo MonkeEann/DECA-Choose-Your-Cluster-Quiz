@@ -81,7 +81,7 @@ p{
     font-family: Tahoma, Geneva, arial;
     font-size: 35px;
 
-    background-color: rgba(25, 17, 48, 0.25);
+    background-color: rgba(25, 17, 48, 0.403);
     transition: background-color 0.25s ease-in-out, transform 0.25s ease-in-out;
 
     border-radius: 10px;
