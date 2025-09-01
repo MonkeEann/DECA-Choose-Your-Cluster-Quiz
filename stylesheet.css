@@ -75,7 +75,7 @@ p{
     justify-content: center;
     align-items: center;
 
-    width: 900px;           /* smaller width */
+    width: 100%;           /* smaller width */
     height: 100px;
     color: hsl(0, 0%, 100%);
     font-family: Tahoma, Geneva, arial;
@@ -127,12 +127,12 @@ p{
         font-size: 3em;
     }
     #answers{
-        width: 90%;
+        width: 80%;
         padding: 1em;
         backdrop-filter: blur(3px);
     }
     .answerButtons{
-        width: 70%;
+        width: 100%;
         font-size: 20px;           /* smaller width */
     }
     #question{
